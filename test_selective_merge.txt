@@ -1,0 +1,1 @@
+To check if selective merge / push can happen in remote. we just need to push all the files that are not part of .gitignore. also need to check if .gitignor need to be pushed to remote for this or it can happen without it.
